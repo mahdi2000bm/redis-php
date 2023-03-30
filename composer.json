@@ -1,0 +1,17 @@
+{
+    "name": "at/redis-sample",
+    "autoload": {
+        "psr-4": {
+            "At\\RedisSample\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mhdibaqri",
+            "email": "mahdi2000bmn@gmail.com"
+        }
+    ],
+    "require": {
+        "predis/predis": "^2.1"
+    }
+}
